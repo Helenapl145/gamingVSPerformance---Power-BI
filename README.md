@@ -42,7 +42,7 @@ O dashboard foi desenvolvido a partir do dataset **Gaming Hours vs Academic and 
 
 ## 📸 Preview do Dashboard
 
-![Preview do Dashboard](./imagens/preview.png)
+![Preview do Dashboard](./preview.png)
 
 ---
 
